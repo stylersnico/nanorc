@@ -1,4 +1,4 @@
-wget -O /tmp/nanorc.zip https://github.com/scopatz/nanorc/archive/master.zip
+wget -O /tmp/nanorc.zip https://github.com/stylersnico/nanorc/archive/master.zip
 if [ ! -d ~/.nano/ ]
 then
     mkdir ~/.nano/
